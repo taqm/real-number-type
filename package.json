@@ -9,11 +9,17 @@
     "type": "git",
     "url": "git+https://github.com/taqm/real-number-type.git"
   },
-  "keywords": ["TypeScript"],
+  "keywords": [
+    "TypeScript"
+  ],
   "author": "taqm",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/taqm/real-number-type/issues"
   },
-  "homepage": "https://github.com/taqm/real-number-type#readme"
+  "homepage": "https://github.com/taqm/real-number-type#readme",
+  "devDependencies": {
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.5"
+  }
 }
